@@ -30,5 +30,5 @@
         android:layout_alignTop="@+id/imageView"
         android:layout_centerHorizontal="true"
         android:background="#999999"
-        android:hint="National ID" / >
+        android:hint="National ID" />
 </RelativeLayout>
